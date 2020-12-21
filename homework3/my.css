@@ -1,0 +1,41 @@
+h1 {
+   text-align: center;
+   background-color: rgb(165,42,42);
+   width: 101%;
+}
+.car2 {
+    border:   5px dashed  black;
+}
+.foto {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 101%;
+}
+.text {
+    width: 80%;
+    font-size: 18px;
+}
+.text .style-italik {
+font-style: italic;
+}
+.text .weight-bold {
+    font-weight: bold;
+}
+.text .boldstyle {
+    font-style: italic;
+    font-weight: bold;
+    color: #0000ff;
+
+}
+.texttwo {
+    width: 80%;
+    font-size: 18px;
+}
+.texttwo .blue {
+    color: #0000ff;
+}
