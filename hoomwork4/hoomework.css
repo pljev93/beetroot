@@ -1,0 +1,47 @@
+body{
+    background-color: #121116;
+   
+}
+header{
+    text-align: center;
+    padding: 119px;
+}
+.logocasper {
+    padding: 30px;
+}
+.text {
+    color: #dfdfe0;
+    padding: 0px;
+} 
+
+
+.width {
+    width: 300px;
+   
+}
+
+
+.foto {
+float:  left ;
+margin-right: 20px;
+width: 30px;
+height: 30px;
+
+
+}
+div.social {
+padding: 15px;
+margin-left: 550px;
+font-size: 20px;
+height: 20px;
+}
+.color {
+   color: #19c8fa;
+   text-align: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 50px;
+    
+}
