@@ -1,0 +1,109 @@
+body{
+    background-color: #ffffff;   
+}
+.round_1 {
+    text-align: center;
+    border: 3px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: #2e85c1;
+    margin: 150px 0px 60px 400px; 
+    padding: 10px; 
+}
+.round_1:hover{
+    background-color:  #2e85c1;
+    
+}
+.tablet1:hover{
+    color: black;
+}
+.round_2 {
+    text-align: center;
+    border: solid ;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: #2e85c1;
+    background-color: #2e85c1;
+    margin: -220px 0px 100px 800px; 
+    padding: 10px;
+}
+.round_2:hover{
+    background-color:  #ffffff ;
+}
+.round_3 {
+    text-align: center;
+    border: solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: #2e85c1;
+    background-color: #2e85c1;  
+    margin:-215px 0px 100px 1200px; 
+    padding: 9px;
+}
+.round_3:hover{
+    background-color:  #ffffff ;
+}
+.tablet2{
+    margin: 100px 290px -390px;
+}
+.tablet {
+    padding: 10px;
+}
+.settings {
+    padding: 10px;
+}
+.dashboard {
+    padding: 10px;
+}
+.text1 {
+    width: 300px;
+    text-align: center;
+    box-sizing: border-box;
+   margin: 20px 0px 0px 290px;
+   font-size: 15px;
+   font-weight: bold;
+}
+.text2 {
+    box-sizing: border-box;
+   margin: -40px 0px 0px 780px;
+   font-size: 15px;
+   font-weight: bold;
+   width: 140px;
+}
+.text3 {
+    box-sizing: border-box;
+   margin: -40px 0px -20px 1160px;
+   font-size: 15px;
+   font-weight: bold;
+   width: 160px;  
+}
+.text4 {
+    width: 230px;
+    height: 30px;
+    color: #9d9d9d;
+    font-size: 15px;
+    box-sizing: border-box;
+    margin: 20px 325px   ;
+    text-align: center;
+}
+.text5 {
+    width: 230px;
+    height: 30px;
+    color: #9d9d9d;
+    font-size: 15px;
+    box-sizing: border-box;
+    margin: 17px 740px   ;
+    text-align: center;
+}
+.text6 {
+    width: 230px;
+    height: 30px;
+    color: #9d9d9d;
+    font-size: 15px;
+    box-sizing: border-box;
+    margin: 37px 1130px  ;
+    text-align: center;
+}
