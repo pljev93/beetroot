@@ -1,0 +1,56 @@
+@media(min-width: 768px){
+
+
+
+main{
+    display: flex;
+    padding: 5%;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+}
+div{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+   width: 50%;
+   text-align: center;
+  
+}
+body{
+    background-color: #fdde7e;
+}
+.one{
+    width: 30%;
+    
+}
+.two{
+    width: 30% ;
+    margin-top: -2%;
+    margin-bottom: -3%;
+    
+}
+.three{
+    width: 30%;
+}
+
+
+
+.price{
+    font-size: 70px;
+    color: #02995b;
+    padding-bottom: 0%;
+
+}
+.iron{
+    font-size: 50px;
+    
+}
+.margin{
+    font-size: 25px;
+    
+}
+.cofee{
+    margin-top: 20px;
+}

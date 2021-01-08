@@ -1,0 +1,138 @@
+@media(min-width: 768px){
+body{
+    background-color: #e2e7ec;
+   width:1366px;
+   margin: 0;
+   padding: 0;
+}
+
+.hi{
+ padding: 90px 200px;
+    display: flex; 
+    
+}
+.layer3copy2{
+    margin:90px 0px 0px 20px;
+}
+.nowember24{
+    color: #818181;
+    margin-left: 14px;
+}
+
+.now{
+    font-size: 16px;
+    margin-left: 14px;
+    font-weight: bold;  
+}
+.hi2{
+    display: flex; 
+     padding: 200px;
+    margin-top: -280px;
+    margin-left: 20px;
+}
+.layer8{
+    width: 760px ;
+    height: 543px;
+}
+.layer2{
+    width: 360px ;
+    height: 254px;
+}
+div.two{
+    border: solid 0px  #e2e7ec;
+    width: 360px ;
+    height: 543px;
+    background-color: white;
+    margin-top: -0px;
+}
+.one{
+    padding-right: 20px;
+}
+
+.nowember28{
+    margin-top: -140px;
+    margin-left: 35px;
+    color: #818181;
+}
+.car{
+    margin-top: 0px;
+    margin-left: 35px;
+    color: white;
+    font-weight: bold;
+}
+div.three{
+    border: solid 0px  #e2e7ec;
+    width: 378px ;
+    height: 543px;
+    background-color: white;
+    margin-left: -21px;
+    padding: 0;
+    margin-right: 20px;
+}
+div.four{
+    border: solid px  #e2e7ec;
+    width: 378px ;
+    height: 543px;
+    background-color: white;
+    margin-right: 250px;
+
+}
+div.five{
+    border: solid 0px  #e2e7ec;
+    width: 362px ;
+    height: 543px;
+    background-color: white;
+    margin-left: -229px;
+    
+}
+.layer5{
+    width: 362px ;
+    height: 252px;
+}
+.layer7{
+    width: 378px ;
+    height: 252px;
+}
+.layer9{
+    width: 360px ;
+    height: 252px;
+}
+.layer3copy3{
+    margin: 100px 20px;
+}
+.layer3copy{
+    margin: 70px 20px;
+}
+.layer3{
+    margin: 100px 20px;
+}
+.nowember18{
+    color: #818181;
+    margin-left: 14px;
+}
+.nowember08{
+    color: #818181;
+    margin-left: 14px;
+}
+.only{
+    font-size: 16px;
+    margin-left: 14px;
+    font-weight: bold;  
+}
+.hask{
+    font-size: 16px;
+    margin-left: 14px;
+    font-weight: bold;  
+    margin: 47px 14px;
+}
+.get{
+    font-size: 16px;
+    margin-left: 14px;
+    font-weight: bold;  
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    color: #818181;
+}
+}
