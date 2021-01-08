@@ -1,0 +1,45 @@
+body{
+    background-color: #ffffff;
+    
+}
+
+.text-top{
+    color: #b59b9b;
+    font-size: 10px;
+    margin-top: -900px ;
+    margin-left: 440px;
+    
+}
+.text{
+    font-size: 36px;
+    margin-left: 300px;
+    color: #27b4b6;
+}
+.text-footer{
+font-size: 15px;
+margin-left: 270px;
+color: #a38989;
+
+}
+.img1 {
+    width: 200px;
+    box-sizing: border-box;
+    
+    text-align: center  ;
+    
+}
+div{
+    width: 200px;
+    height: 421px;
+    box-sizing: border-box;
+    display: inline-block;   
+    margin: 15px;
+}
+div:hover{
+
+    background-color: rgba(39,180,182,.7);
+    color: #ffffff;
+}
+main{
+    margin-left: 300px;
+}
