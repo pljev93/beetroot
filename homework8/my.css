@@ -1,0 +1,76 @@
+body{
+    padding: 40px 200px;
+}
+.willow{
+    font-size: 42px;
+    margin-bottom: 100px;
+}
+
+.t{
+    font-family: 'Playfair Display', serif;
+    font-size: 110px;
+    color: black;
+    float:left;
+    margin: 30px 30px 10px 0; 
+    
+}
+.p1{
+    font-family: 'Lato', sans-serif;
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-top: -85px;
+
+}
+.p2{
+    font-family: 'Lato', sans-serif;
+    color: #7a7a7a;
+    font-size: 18px;
+    line-height:30px;
+    width: 1059px;
+    height: 151px;
+    margin-top: 30px;
+
+
+}
+.p3{
+    font-family: 'Lato', sans-serif;
+    color: #7a7a7a;
+    font-size: 18px;
+    line-height:30px;
+    width: 1059px;
+    height: 151px;
+    margin-top: -30px;
+
+}
+.p4{
+    font-family: 'Lato', sans-serif;
+    margin-top: -70px;
+
+color: #7a7a7a;
+font-size: 24px;
+}
+span{
+    font-family: 'Lato', sans-serif;
+
+color: #5c5c5c  ;
+font-size: 60px;
+}
+.discover{
+    color: #eaa258 ;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+border: solid 2px #eaa258;
+text-align: center;
+width: 266px;
+height: 68px;
+
+}
+.text{
+    font-family: 'Lato', sans-serif;
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-top: -60px;
+    width: 1059px;
+    height: 151px;
+    line-height:30px;
+}
