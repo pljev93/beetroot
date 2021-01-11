@@ -1,0 +1,161 @@
+* {transition: all .1s easy-in;}
+.grid{
+position: absolute;
+left: 250px;
+top: 0px;
+}
+main{
+    display: flex;
+}
+.line{
+    border: solid 1px #dddbdb;
+    width: 46px;
+    height: 6px;
+    background: #dddbdb;
+    position: absolute;
+    left: 810px;
+    top: 150px;
+}
+.who{
+    font-family: 'Raleway', sans-serif; 
+    font-size: 55px;
+    position: absolute;
+    top: 30px;
+    left: 650px;
+}
+.text{
+    font-style: bold;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 18px;
+}
+.text1{
+    font-family: 'Raleway', sans-serif; 
+    font-size: 14px;
+}
+.lorem{
+    font-family: 'Raleway', sans-serif; 
+    font-size: 16px;
+    width: 570px;
+    height: 40px;
+    text-align: center;
+    position: absolute;
+    top: 190px;
+    left: 550px;
+}
+
+.four{
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+}
+.three{
+    position: absolute;
+    left: 850px;
+    top: 300px;
+}
+.two{
+    position: absolute;
+    left: 550px;
+    top: 300px;
+}
+.one{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+.foto7:hover{
+    opacity: 0;
+}
+
+.foto8{
+    position: absolute;
+    right: 0px;
+    opacity: 0;
+}
+.foto8:hover{
+    
+    opacity: 1;
+}
+.border{
+    border: 1px solid #18b5dc;
+    background-color: #18b5dc ;
+    width: 269px;
+    height: 268px;
+    position: absolute   ;
+   left: 250px;
+   top: 300px;
+   opacity: 0;
+}
+.material-icons{
+   font-size: 50px;
+   background-color: #329cee;
+   color: white;
+   position: absolute   ;
+   border-radius: 5px;
+   position: absolute;
+   top: 100px;
+   left: 115px;
+   
+}
+.border:hover{
+    opacity: 1;
+}
+.fab12{
+    font-size: 50px;
+    background-color:#5ecce7;
+    color:  #ffffff;
+    position: absolute   ;
+    border-radius: 5px;
+    position: absolute;
+    left: 60px;
+    top: 100px;
+}
+.fab{
+    font-size: 50px;
+    background-color: #329cee;
+    color:  #ffffff;
+    position: absolute   ;
+    border-radius: 5px;
+    position: absolute;
+    left: 170px;
+    top: 100px;
+}
+.border1{
+    border: 1px solid #18b5dc;
+    background-color: #18b5dc ;
+    width: 269px;
+    height: 268px;
+    position: absolute   ;
+   left: 550px;
+   top: 300px;
+   opacity: 0;
+}
+.border1:hover{
+    opacity: 1;
+}
+.border2{
+    border: 1px solid #18b5dc;
+    background-color: #18b5dc ;
+    width: 269px;
+    height: 268px;
+    position: absolute   ;
+   left: 850px;
+   top: 300px;
+   opacity: 0;
+}
+.border2:hover{
+    opacity: 1;
+}
+.border3{
+    border: 1px solid #18b5dc;
+    background-color: #18b5dc ;
+    width: 269px;
+    height: 268px;
+    position: absolute   ;
+   left: 1150px;
+   top: 300px;
+   opacity: 0;
+}
+.border3:hover{
+    opacity: 1;
+}
