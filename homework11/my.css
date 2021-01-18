@@ -1,0 +1,206 @@
+.body__body{
+    width: 1519px   ;
+}
+.header__header{
+    position: absolute;
+    top: 0px;
+}
+.header__p--contact{
+    white-space: nowrap;
+    width: 328px;
+    height: 71px;
+    font-size: 90px; 
+    position: absolute; 
+    left: 600px;
+}
+.header__p--text{
+    position: absolute;
+    left: 590px;
+    top: 213px;
+    width: 313px;
+    text-align: center;
+    font-size: 17px;
+}
+.header__p--adress{
+    position: absolute;
+    left: 835px;
+    top: 300px;
+    font-size: 20px;
+}
+.header__p--email{
+    white-space: nowrap;
+    position: absolute;
+    left: 835px;
+    top: 360px;
+    font-size: 20px;
+}
+.header__p--phone{
+    font-size: 20px;
+    position: absolute;
+    left: 835px;
+    top: 420px;
+}
+.header__adress--text{
+    font-size: 17px;
+    position: absolute;
+    left: 835px;
+    top: 330px;
+    width: 315px;
+    
+}
+.header__email--text{
+    font-size: 17px;
+    position: absolute;
+    left: 835px;
+    top: 385px;
+    width: 315px;
+}
+.headre__phone--text{
+    font-size: 17px;
+    position: absolute; 
+    left: 835px;
+    top: 450px;
+    width: 315px;
+}
+
+.header__input--name{
+    opacity: .5;
+    padding-left: 30px;
+    border: solid 0px;
+    width: 500px;
+    height: 50px;
+    background-color: #00c4c4;
+    position: absolute;
+    top: 320px;
+    left: 100px;
+    color: white;
+    outline: none;      
+}
+
+    .header__input--name::-webkit-input-placeholder{
+        color: white;
+}
+    .header__input--name:hover{
+        opacity: 1;
+    border-left: solid 5px #355b82 ;
+    font-weight: bold;
+    width: 495px;
+    display: block;
+}
+.header__input--email{
+    opacity: .5;
+    padding-left: 30px;
+    border: solid 0px;
+    width: 500px;
+    height: 50px;
+    background-color: #00c4c4;
+    position: absolute;
+    top: 380px;
+    left: 100px;
+    color: white;
+    outline: none;      
+}
+    .header__input--email::-webkit-input-placeholder{
+        color: white;
+}
+    .header__input--email:hover{
+        opacity: 1;
+    border-left: solid 5px #355b82 ;
+    font-weight: bold;
+    width: 495px;
+    display: block;
+}
+.header__input--phone{
+    opacity: .5;
+    padding-left: 30px;
+    border: solid 0px;
+    width: 500px;
+    height: 50px;
+    background-color: #00c4c4;
+    position: absolute;
+    top: 440px;
+    left: 100px;
+    color: white;
+    outline: none;      
+}
+    .header__input--phone::-webkit-input-placeholder{
+        color: white;
+}
+    .header__input--phone:hover{
+        opacity: 1;
+    border-left: solid 5px #355b82 ;
+    font-weight: bold;
+    width: 495px;
+    display: block;
+}
+.header__input--messge{
+    opacity: .5;
+    padding-left: 30px;
+    border: solid 0px;
+    width: 500px;
+    height: 300px;
+    background-color: #00c4c4;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    color: white;
+    outline: none;      
+}
+    .header__input--messge::-webkit-input-placeholder{
+        color: white;
+    
+}
+    .header__input--messge:hover{
+        opacity: 1;
+    border-left: solid 5px #355b82 ;
+    font-weight: bold;
+    width: 495px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.header__footer{
+    border: solid 0px #262626;
+    background-color: #262626;
+    width: 1519px;
+    height: 90px;
+    position: absolute;
+    top: 877px;
+}
+.header__footer{
+    display: flex;
+}
+.footer__p--made{
+    position: absolute;
+    left: 1150px;
+    top: 18px;
+    color: #b9b9b9;
+    font-size: 16px;
+}
+.footer__p--caheer{
+    position: absolute;
+    left: 750px;
+    top: 5px;
+    color: #b9b9b9;
+    font-size: 25px;
+}
+.footer__p--year{
+    position: absolute;
+    left: 150px;
+    top: 18px;
+    color: #b9b9b9;
+    font-size: 15px;
+}
+.footer__p--made_love{
+    color: #ff2b58;
+}
