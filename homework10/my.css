@@ -1,0 +1,101 @@
+
+.header_header{
+    width: 1519px;
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+.header_logo{
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    left: 165px;
+    top: -10px;
+    font-size: 50px;
+} 
+.header_nav{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px bold;
+    display: flex;
+    position: absolute;
+    left: 783px;
+    top: 52px;
+}
+.header_nav_home{
+    margin-left: 40px;
+}
+.header_nav_about{
+    margin-left: 40px;
+}
+.header_nav_services{
+    margin-left: 40px;
+}
+.header_nav_gallery{
+    margin-left: 40px;
+}
+.header_nav_blog{
+    margin-left: 40px;
+}
+.header_nav_contact{
+    margin-left: 40px;
+}
+.header_nav_fresh{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    position: absolute;
+    top: 150px;
+    right: 930px;
+    width: 300px;
+}
+.header_nav_text{
+    font-size: 16px;
+    position: absolute;
+    top: 300px;
+    right: 890px;
+    width: 339px;
+    height: 71px;
+}
+.header_nav_border{
+    border: 1px solid #ff6033;
+    background-color: #ff6033;
+    width: 200px;
+    height: 56px;
+    position: absolute;
+    top: 450px;
+    right: 1030px;   
+}
+.header_nav_border_text{
+    font-size: 20px;
+    position: absolute;
+    top: 448px;
+    right: 1055px; 
+    width: 150px;  
+    color: #ffffff;
+}
+.main_body{
+    width: 1519px;
+    position: absolute;
+    top: 1000px;
+}
+.main_tittle{
+    font-family: 'Raleway', sans-serif;
+    font-size: 90px;
+    color: #ffffff;
+    position: absolute;
+    left: 896px;
+    top: 1070px;
+}
+.main_text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    position: absolute;
+    width: 495px;
+    height: 159px;
+    left: 896px;
+    top: 1250px;
+}
+
+
+
+
+
